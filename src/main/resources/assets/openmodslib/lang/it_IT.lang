@@ -1,0 +1,76 @@
+openmodslib.command.no_enough_args=Non abbastanza argomenti
+openmodslib.command.unknown_modid=ID della mod sconosciuto
+openmodslib.command.unknown_value=Valore di configurazione sconosciuto
+openmodslib.command.saved=Configurazione salvata in %s
+openmodslib.command.not_multiple=Questa proprietà non accetta valori multipli
+openmodslib.command.online_change=Proprietà di configurazione modificata. Nuovo valore in uso.
+openmodslib.command.offline_change=Proprietà di configurazione modificata. Il nuovo valore verrà applicato dopo un riavvio.
+openmodslib.command.cancelled=Modifica della configurazione annullata!
+openmodslib.command.unknown_error=Errore sconosciuto durante la modifica della proprietà di configurazione: %s
+openmodslib.command.invalid_command=Comando '%s' non valido
+openmodslib.command.invalid_type=Il valore %s non può essere convertito in %s
+openmodslib.command.invalid_class_name=Nome della classe %s non valido
+openmodslib.command.unknown_error_details=Errore sconosciuto. Controlla i log per maggiori dettagli.
+openmodslib.command.class_source=Classe '%s' caricata da '%s'
+openmodslib.command.api_class=Informazioni sull'API: nome='%s', possessore='%s', versione='%s'
+openmodslib.command.class_provider=Classe fornita dal file %s (mod: %s)
+
+openmodslib.command.calc_set=Valore %s impostato a %s
+openmodslib.command.calc_no_type=Per piacere, fornisci il tipo del nuovo calcolatore
+openmodslib.command.calc_no_name=Per piacere, fornisci il nome del nuovo calcolatore
+openmodslib.command.calc_invalid_name=Nome del calcolatore non valido
+openmodslib.command.calc_invalid_type=Tipo del calcolatore non valido. Tipi consentiti: %s
+openmodslib.command.calc_invalid_mode=Modalità del calcolatore non valida. Modalità consentite: %s
+openmodslib.command.calc_no_key=Per piacere, fornisci il nome della proprietà
+openmodslib.command.calc_no_value=Per piacere, fornisci il valore della proprietà
+openmodslib.command.calc_invalid_key=Nome della proprietà non valido
+openmodslib.command.calc_cant_set=Impostazione della proprietà fallita
+openmodslib.command.calc_function_defined=Funzione %s definita
+openmodslib.command.calc_error=Esecuzione fallita: '%s'
+openmodslib.command.calc_syntax_error_path=Analisi del comando '%s' fallita: 
+openmodslib.command.calc_runtime_error_path=Esecuzione del comando '%s' fallita:
+openmodslib.command.calc_stack_underflow=Sotto-eccedenza della memoria stack del calcolatore
+openmodslib.command.calc_after_push=Calcolatore aggiunto, dimensione memoria stack: %s
+openmodslib.command.calc_after_pop=Calcolatore rimosso, dimensione memoria stack: %s
+openmodslib.command.calc_stack_size=Dimensione memoria stack: %s
+openmodslib.command.calc_extra_args=Argomenti non analizzati rimanenti nel comando: %s
+openmodslib.command.calc_invalid_number='%s' non è un numero valido
+openmodslib.command.no_subcommand=Impossibile trovare il sotto-comando: %s
+openmodslib.command.no_subcommands=Il comando non ha sotto-comandi
+openmodslib.command.not_enough_arguments=Non abbastanza argomenti
+openmodslib.command.calc_executed_count=%d comandi eseguiti
+openmodslib.command.calc_not_child=Il percorso %s non è figlio di %s
+openmodslib.command.calc_not_file=Il percorso %s non è un file valido
+
+openmodslib.color.black=Nero
+openmodslib.color.red=Rosso
+openmodslib.color.green=Verde
+openmodslib.color.brown=Marrone
+openmodslib.color.blue=Blu
+openmodslib.color.purple=Viola
+openmodslib.color.cyan=Ciano
+openmodslib.color.lightGray=Grigio Chiaro
+openmodslib.color.gray=Grigio
+openmodslib.color.pink=Rosa
+openmodslib.color.lime=Lime
+openmodslib.color.yellow=Giallo
+openmodslib.color.lightBlue=Azzurro
+openmodslib.color.magenta=Magenta
+openmodslib.color.orange=Arancione
+openmodslib.color.white=Bianco
+
+openmodslib.gui.watch_video=Guarda video
+
+openmodslib.locale.book.scale.pageNumber=0.5
+openmodslib.locale.book.scale.sectionTitle=2.0
+openmodslib.locale.book.scale.pageTitle=1.0
+openmodslib.locale.book.scale.pageContent=0.5
+
+openmodslib.locale.book.lineSpace.titledPage=2
+openmodslib.locale.book.lineSpace.recipePage=4
+
+openmodslib.config.features=Abilita/disabilita funzionalità
+openmodslib.config.features.blocks=Abilita/disabilita blocchi
+openmodslib.config.features.items=Abilita/disabilita oggetti
+openmodslib.config.config=Configurazione specifica per la mod
+openmodslib.config.update_warning=§c§lNota:§r per modificare la configurazione durante il gioco, usa i comandi §lom_config_s§r p §lom_config_m§r
